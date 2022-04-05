@@ -1,12 +1,24 @@
-# Tags: latest, 2.8.0-debian-10-r34, 2.8.0, 2-debian-10, 2
+# Tags: latest, 2.8.0-debian-10-r38, 2.8.0, 2-debian-10, 2
 FROM bitnami/tensorflow-resnet:latest
-FROM bitnami/tensorflow-resnet:2.8.0-debian-10-r34
+FROM bitnami/tensorflow-resnet:2.8.0-debian-10-r38
 FROM bitnami/tensorflow-resnet:2.8.0
 FROM bitnami/tensorflow-resnet:2-debian-10
 FROM bitnami/tensorflow-resnet:2
 
 # Tags: _
 FROM bitnami/tensorflow-resnet:_
+
+# Tags: 2.8.0-debian-10-r37
+FROM bitnami/tensorflow-resnet:2.8.0-debian-10-r37
+
+# Tags: 2.8.0-debian-10-r36
+FROM bitnami/tensorflow-resnet:2.8.0-debian-10-r36
+
+# Tags: 2.8.0-debian-10-r35
+FROM bitnami/tensorflow-resnet:2.8.0-debian-10-r35
+
+# Tags: 2.8.0-debian-10-r34
+FROM bitnami/tensorflow-resnet:2.8.0-debian-10-r34
 
 # Tags: 2.8.0-debian-10-r33
 FROM bitnami/tensorflow-resnet:2.8.0-debian-10-r33
@@ -76,18 +88,3 @@ FROM bitnami/tensorflow-resnet:2.8.0-debian-10-r11
 
 # Tags: 2.8.0-debian-10-r10
 FROM bitnami/tensorflow-resnet:2.8.0-debian-10-r10
-
-# Tags: 2.8.0-debian-10-r9
-FROM bitnami/tensorflow-resnet:2.8.0-debian-10-r9
-
-# Tags: 2.8.0-debian-10-r8
-FROM bitnami/tensorflow-resnet:2.8.0-debian-10-r8
-
-# Tags: 2.8.0-debian-10-r7
-FROM bitnami/tensorflow-resnet:2.8.0-debian-10-r7
-
-# Tags: 2.8.0-debian-10-r6
-FROM bitnami/tensorflow-resnet:2.8.0-debian-10-r6
-
-# Tags: 2.8.0-debian-10-r5
-FROM bitnami/tensorflow-resnet:2.8.0-debian-10-r5
