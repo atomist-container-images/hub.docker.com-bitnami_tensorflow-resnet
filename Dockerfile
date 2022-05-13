@@ -1,12 +1,39 @@
-# Tags: latest, 2.8.0-debian-10-r60, 2.8.0, 2-debian-10, 2
+# Tags: latest, 2.8.0-debian-10-r69, 2.8.0, 2-debian-10, 2
 FROM bitnami/tensorflow-resnet:latest
-FROM bitnami/tensorflow-resnet:2.8.0-debian-10-r60
+FROM bitnami/tensorflow-resnet:2.8.0-debian-10-r69
 FROM bitnami/tensorflow-resnet:2.8.0
 FROM bitnami/tensorflow-resnet:2-debian-10
 FROM bitnami/tensorflow-resnet:2
 
 # Tags: _
 FROM bitnami/tensorflow-resnet:_
+
+# Tags: 2.8.0-debian-10-r68
+FROM bitnami/tensorflow-resnet:2.8.0-debian-10-r68
+
+# Tags: 2.8.0-debian-10-r67
+FROM bitnami/tensorflow-resnet:2.8.0-debian-10-r67
+
+# Tags: 2.8.0-debian-10-r66
+FROM bitnami/tensorflow-resnet:2.8.0-debian-10-r66
+
+# Tags: 2.8.0-debian-10-r65
+FROM bitnami/tensorflow-resnet:2.8.0-debian-10-r65
+
+# Tags: 2.8.0-debian-10-r64
+FROM bitnami/tensorflow-resnet:2.8.0-debian-10-r64
+
+# Tags: 2.8.0-debian-10-r63
+FROM bitnami/tensorflow-resnet:2.8.0-debian-10-r63
+
+# Tags: 2.8.0-debian-10-r62
+FROM bitnami/tensorflow-resnet:2.8.0-debian-10-r62
+
+# Tags: 2.8.0-debian-10-r61
+FROM bitnami/tensorflow-resnet:2.8.0-debian-10-r61
+
+# Tags: 2.8.0-debian-10-r60
+FROM bitnami/tensorflow-resnet:2.8.0-debian-10-r60
 
 # Tags: 2.8.0-debian-10-r59
 FROM bitnami/tensorflow-resnet:2.8.0-debian-10-r59
@@ -52,27 +79,3 @@ FROM bitnami/tensorflow-resnet:2.8.0-debian-10-r46
 
 # Tags: 2.8.0-debian-10-r45
 FROM bitnami/tensorflow-resnet:2.8.0-debian-10-r45
-
-# Tags: 2.8.0-debian-10-r44
-FROM bitnami/tensorflow-resnet:2.8.0-debian-10-r44
-
-# Tags: 2.8.0-debian-10-r43
-FROM bitnami/tensorflow-resnet:2.8.0-debian-10-r43
-
-# Tags: 2.8.0-debian-10-r42
-FROM bitnami/tensorflow-resnet:2.8.0-debian-10-r42
-
-# Tags: 2.8.0-debian-10-r41
-FROM bitnami/tensorflow-resnet:2.8.0-debian-10-r41
-
-# Tags: 2.8.0-debian-10-r40
-FROM bitnami/tensorflow-resnet:2.8.0-debian-10-r40
-
-# Tags: 2.8.0-debian-10-r39
-FROM bitnami/tensorflow-resnet:2.8.0-debian-10-r39
-
-# Tags: 2.8.0-debian-10-r38
-FROM bitnami/tensorflow-resnet:2.8.0-debian-10-r38
-
-# Tags: 2.8.0-debian-10-r37
-FROM bitnami/tensorflow-resnet:2.8.0-debian-10-r37
